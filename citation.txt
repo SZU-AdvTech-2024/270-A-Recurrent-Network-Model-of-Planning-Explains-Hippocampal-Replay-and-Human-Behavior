@@ -1,6 +1,5 @@
 @article{REPO270,
     author = "Jensen, Kristopher T. and Hennequin, Guillaume and Mattar, Marcelo G.",
-    abstractnote = "Abstract When faced with a novel situation, people often spend substantial periods of time contemplating possible futures. For such planning to be rational, the benefits to behavior must compensate for the time spent thinking. Here, we capture these features of behavior by developing a neural network model where planning itself is controlled by the prefrontal cortex. This model consists of a meta-reinforcement learning agent augmented with the ability to plan by sampling imagined action sequences from its own policy, which we call ‘rollouts’. In a spatial navigation task, the agent learns to plan when it is beneficial, which provides a normative explanation for empirical variability in human thinking times. Additionally, the patterns of policy rollouts used by the artificial agent closely resemble patterns of rodent hippocampal replays. Our work provides a theory of how the brain could implement planning through prefrontal–hippocampal interactions, where hippocampal replays are triggered by—and adaptively affect—prefrontal dynamics.",
     doi = "10.1038/s41593-024-01675-7",
     issn = "1097-6256, 1546-1726",
     journal = "Nature Neuroscience",
