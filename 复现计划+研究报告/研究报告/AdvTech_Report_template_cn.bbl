@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{Fischer_Nigbur_Klein_Danielmeier_Ullsperger_2018}
+Adrian~G. Fischer, Roland Nigbur, Tilmann~A. Klein, Claudia Danielmeier, and Markus Ullsperger.
+\newblock Cortical beta power reflects decision dynamics and uncovers multiple facets of post-error adaptation.
+\newblock {\em Nature Communications}, 9(1):5038, November 2018.
+
+\bibitem{Froemer_Lin_Dean_Wolf_Inzlicht_Shenhav_2021}
+R.~Froemer, H.~Lin, C.~K.~Dean Wolf, M.~Inzlicht, and A.~Shenhav.
+\newblock Expectations of reward and efficacy guide cognitive control allocation.
+\newblock {\em Nature Communications}, 12(1):1030, February 2021.
+
+\bibitem{Froemer_Dean_Wolf_Shenhav_2019}
+Romy Froemer, Carolyn K.~Dean Wolf, and Amitai Shenhav.
+\newblock Goal congruency dominates reward value in accounting for behavioral and neural correlates of value-based decision-making.
+\newblock {\em Nature Communications}, 10(1):4926, October 2019.
+
+\bibitem{liu_2024_brep}
+Yilin Liu, Jiale Chen, Shanshan Pan, Daniel Cohen-Or, Hao Zhang, and Hui Huang.
+\newblock {Split-and-Fit: Learning B-Reps via Structure-aware Voronoi Partitioning}.
+\newblock {\em ACM Trans. on Graphics (Proc. SIGGRAPH)}, 43(4):108:1--108:13, 2024.
+
+\end{thebibliography}
